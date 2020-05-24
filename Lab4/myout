@@ -1,0 +1,5 @@
+mips> 
+pc	if/id	id/exe	exe/mem	mem/wb
+1	lw	empty	empty	empty
+
+mips> 
